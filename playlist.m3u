@@ -1,0 +1,117 @@
+#EXTM3U x-tvg-url="https://your-epg-link.com/epg.xml" refresh="1440" url-tvg="https://your-epg-link.com/epg.xml"
+
+###########################################################
+# 🇲🇾 SALURAN MALAYSIA (FULL TEMPLATE)
+###########################################################
+
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV1" tvg-logo="https://logo.com/tv1.png" group-title="Malaysia",TV1
+http://your-stream-link.com/tv1.m3u8
+
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://logo.com/tv2.png" group-title="Malaysia",TV2
+http://your-stream-link.com/tv2.m3u8
+
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://logo.com/tv3.png" group-title="Malaysia",TV3
+http://your-stream-link.com/tv3.m3u8
+
+#EXTINF:-1 tvg-id="8tv.my" tvg-name="8TV" tvg-logo="https://logo.com/8tv.png" group-title="Malaysia",8TV
+http://your-stream-link.com/8tv.m3u8
+
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="TV9" tvg-logo="https://logo.com/tv9.png" group-title="Malaysia",TV9
+http://your-stream-link.com/tv9.m3u8
+
+
+###########################################################
+# ⭐ ASTRO ENTERTAINMENT
+###########################################################
+
+#EXTINF:-1 tvg-id="astro-ria.my" tvg-logo="https://logo.com/ria.png" group-title="Astro",Astro Ria
+http://your-stream-link.com/astroria.m3u8
+
+#EXTINF:-1 tvg-id="astro-citra.my" tvg-logo="https://logo.com/citra.png" group-title="Astro",Astro Citra
+http://your-stream-link.com/astrocitra.m3u8
+
+#EXTINF:-1 tvg-id="astro-warna.my" tvg-logo="https://logo.com/warna.png" group-title="Astro",Astro Warna
+http://your-stream-link.com/astrowarna.m3u8
+
+
+###########################################################
+# ⚽ SUKAN MALAYSIA / ANTARABANGSA
+###########################################################
+
+#EXTINF:-1 tvg-id="arena.my" tvg-logo="https://logo.com/arena.png" group-title="Sukan",Astro Arena
+http://your-stream-link.com/arena.m3u8
+
+#EXTINF:-1 tvg-id="ss1.my" tvg-logo="https://logo.com/assp1.png" group-title="Sukan",Astro SuperSport 1
+http://your-stream-link.com/assp1.m3u8
+
+#EXTINF:-1 tvg-id="bein1.my" tvg-logo="https://logo.com/bein1.png" group-title="Sukan",beIN Sports 1
+http://your-stream-link.com/bein1.m3u8
+
+
+###########################################################
+# 🎬 MOVIES & ENTERTAINMENT
+###########################################################
+
+#EXTINF:-1 tvg-id="hbo.my" tvg-logo="https://logo.com/hbo.png" group-title="Movie",HBO
+http://your-stream-link.com/hbo.m3u8
+
+#EXTINF:-1 tvg-id="cmax.my" tvg-logo="https://logo.com/cinemax.png" group-title="Movie",Cinemax
+http://your-stream-link.com/cinemax.m3u8
+
+#EXTINF:-1 tvg-id="axn.my" tvg-logo="https://logo.com/axn.png" group-title="Entertainment",AXN
+http://your-stream-link.com/axn.m3u8
+
+
+###########################################################
+# 🧒 KANAK-KANAK
+###########################################################
+
+#EXTINF:-1 tvg-id="ceria.my" tvg-logo="https://logo.com/ceria.png" group-title="Kids",Astro Ceria
+http://your-stream-link.com/ceria.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-logo="https://logo.com/cn.png" group-title="Kids",Cartoon Network
+http://your-stream-link.com/cn.m3u8
+
+#EXTINF:-1 tvg-id="nick.my" tvg-logo="https://logo.com/nick.png" group-title="Kids",Nickelodeon
+http://your-stream-link.com/nick.m3u8
+
+
+###########################################################
+# 🌍 INTERNATIONAL NEWS
+###########################################################
+
+#EXTINF:-1 tvg-id="bbcworld" tvg-logo="https://logo.com/bbc.png" group-title="News",BBC World News
+http://your-stream-link.com/bbc.m3u8
+
+#EXTINF:-1 tvg-id="cnnintl" tvg-logo="https://logo.com/cnn.png" group-title="News",CNN International
+http://your-stream-link.com/cnn.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://logo.com/aljazeera.png" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+###########################################################
+# 📻 RADIO MALAYSIA
+###########################################################
+
+#EXTINF:-1 tvg-id="hotfm" tvg-logo="https://logo.com/hotfm.png" group-title="Radio",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 tvg-id="era" tvg-logo="https://logo.com/era.png" group-title="Radio",ERA FM
+https://astro1.rastream.com/era
+
+
+###########################################################
+# 🧩 TEMPLATE EXTRA (UNTUK 500+ CHANNEL)
+###########################################################
+
+#EXTINF:-1 tvg-id="placeholder" tvg-logo="" group-title="Extra",Channel 001
+http://your-stream-link.com/channel001.m3u8
+
+#EXTINF:-1 tvg-id="placeholder" tvg-logo="" group-title="Extra",Channel 002
+http://your-stream-link.com/channel002.m3u8
+
+#EXTINF:-1 tvg-id="placeholder" tvg-logo="" group-title="Extra",Channel 003
+http://your-stream-link.com/channel003.m3u8
+
+# … ulang sampai Channel 500 …
